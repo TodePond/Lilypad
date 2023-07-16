@@ -2,7 +2,7 @@
 
 The Lilypad is the TodePond discord server.
 
-## This repo
+## Repo
 
 This repo contains information about the server, its structure, its rules, etc.
 
