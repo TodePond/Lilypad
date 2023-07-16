@@ -8,7 +8,30 @@ There are various different channels on the server. On this page, they're presen
 
 ## Basic list
 
-TODO
+These are the different channels of the Lilypad server.
+
+> #welcome<br>
+#lobby<br>
+#introductions
+>    
+> **The Pond**<br>
+#journal<br>
+#accidents<br>
+#links<br>
+#ribbit
+> 
+> **The Roost**<br>
+#chat<br>
+#music
+> 
+> **The Labs**<br>
+#beep
+
+There are also some hidden channels.
+
+> **The Clouds**<br>
+#admin<br>
+#cheep
 
 ## Table summary
 
