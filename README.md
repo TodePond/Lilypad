@@ -30,29 +30,6 @@ You can also browse all open [**issues**](https://github.com/TodePond/TheLilypad
 
 Anyone can contribute! If you want to contribute, but you aren't sure how to do it properly, please feel free to ask @TodePond for help (on discord, mastodon, twitter, or anywhere else).
 
-## Channels
+## Server information
 
-These are the different channels of the Lilypad.
-
-> #welcome<br>
-#lobby<br>
-#introductions
->    
-> **The Pond**<br>
-#journal<br>
-#accidents<br>
-#links<br>
-#ribbit
-> 
-> **The Roost**<br>
-#chat<br>
-#music
-> 
-> **The Labs**<br>
-#beep
-
-There are also some hidden channels.
-
-> **The Clouds**<br>
-#admin<br>
-#cheep
+Check out the [channels](channels.md) page for information about the server's channels and categories.
