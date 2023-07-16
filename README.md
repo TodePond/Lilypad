@@ -10,7 +10,7 @@ It allows me (TodePond) to be more transparent about the running of the server. 
 
 ## Contribute
 
-If you would like to suggest a change, you can **submit a pull request**. Just click "edit" on a file, make your changes, and then submit the request. If you want to change multiple files, you can continue editing your pull request's branch. When you're ready, mark the request as "ready to review".
+If you would like to suggest a change, you can **submit a pull request**. Just click "edit" on a file, make your changes, and then submit the request. If you want to change multiple files, you can continue editing your pull request's branch with further changes.
 
 You can also **[raise an issue](https://github.com/TodePond/TheLilypad/issues/new)** to suggest something that could be improved.
 
