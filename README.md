@@ -22,7 +22,7 @@ If you would like to suggest a change, you can **submit a pull request**. Just c
 
 You can also **[raise an issue](https://github.com/TodePond/TheLilypad/issues/new)** to suggest something that could be improved.
 
-You can also browse all open [**issues**](https://github.com/TodePond/TheLilypad/issues) and [**pull requests**](https://github.com/TodePond/TheLilypad/pulls) to see what might need figuring out.
+You can also browse all open [**issues**](https://github.com/TodePond/TheLilypad/issues) and [**pull requests**](https://github.com/TodePond/TheLilypad/pulls) to see what needs figuring out.
 
 > **Submitting a pull request** is better when you have a clear idea of what the change should be.
 >
