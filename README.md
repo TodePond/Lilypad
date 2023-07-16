@@ -2,6 +2,8 @@
 
 The Lilypad is the TodePond discord server.
 
+It can joined by signing up on [patreon](https://patreon.com/TodePond), [substack](https://todepond.substack.com), or [liberapay](https://liberapay.com/TodePond).
+
 ## Repo
 
 This repo contains information about the server, its structure, its rules, etc.
