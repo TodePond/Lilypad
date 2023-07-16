@@ -10,6 +10,12 @@ This repo contains information about the server, its structure, its rules, etc.
 
 It allows me (TodePond) to be more transparent about the running of the server. It also gives the community a place to discuss the server somewhere that isn't tangled up with the server itself.
 
+## Current status
+
+This repo is still under construction, so it can't be used properly yet. When we have more information documented here, we can start to keep it in sync with the discord server.
+
+The discord server will stay in sync with the latest release of the repo. The main branch can be 'ahead'. When the main branch seems stable enough, a release will be created, and the discord server will be updated accordingly. The first release will represent the current state of the discord server.
+
 ## Contribute
 
 If you would like to suggest a change, you can **submit a pull request**. Just click "edit" on a file, make your changes, and then submit the request. If you want to change multiple files, you can continue editing your pull request's branch with further changes.
