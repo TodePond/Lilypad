@@ -21,3 +21,30 @@ You can also browse all open [**issues**](https://github.com/TodePond/TheLilypad
 > **Raising an issue** is better when there is something that could be improved, but you aren't sure how.
 
 Anyone can contribute! If you want to contribute, but you aren't sure how to do it properly, please feel free to ask @TodePond for help (on discord, mastodon, twitter, or anywhere else).
+
+## Channels
+
+These are the different channels of the Lilypad.
+
+> #welcome<br>
+#lobby<br>
+#introductions
+>    
+> **The Pond**<br>
+#journal<br>
+#accidents<br>
+#links<br>
+#ribbit
+> 
+> **The Roost**<br>
+#chat<br>
+#music
+> 
+> **The Labs**<br>
+#beep
+
+There are also some hidden channels.
+
+> **The Clouds**<br>
+#admin<br>
+#cheep
