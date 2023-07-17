@@ -1,10 +1,11 @@
 # Channels
 
-There are various different channels on the server. On this page, they're presented in the different ways.
+There are various different channels on the server. On this page, they're presented in the following levels of detail.
 
 1. [Basic list](#Basic-list)
-2. [Table summary](#Table-summary)
-3. [Detailed information](#Detailed-information)
+2. [Category overview](#Category-overview)
+3. [Channel overview](#Channel-overview)
+4. [Detailed information](#Detailed-information)
 
 ## Basic list
 
@@ -33,32 +34,80 @@ There are also some hidden channels.
 #admin<br>
 #cheep
 
-## Table summary
+## Category overview
 
-### Categories
+The server's channels are split into the following categories.
 
-|Category|Description|Restrictions|
+|Category|Purpose|Restrictions|
 |--|--|--|
-|Top level|Entrances and announcements|Slowmode: 2 hours|
+|Top level|On-boarding and announcements|Slowmode: 2 hours|
 |The Pond|Sharing|Slowmode: 10 minutes|
 |The Roost|Chatting|Slowmode: 5 minutes|
 |The Labs|Messing around|Slowmode: 6 hours|
+|The Clouds|Moderation and server management|Moderators only|
+
+## Channel overview
+
+Channels inherit their category's restrictions. They are as follows.
 
 ### Top level
 
-TODO 
+Some channels are uncategorised, so are listed at the top level.
+
+|Purpose|Restrictions|
+|--|--|
+|On-boarding and announcements|Slowmode: 2 hours|
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#welcome|Rules|Server guide and rules||Read-only|
+|#lobby|Text|Entrances and announcements|say hello!||
+|#introductions|Text|Introductions|introduce yourself||
 
 ### The Pond
 
-TODO
+|Purpose|Restrictions|
+|--|--|
+|Sharing|Slowmode: 10 minutes|
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#journal|Text|Gallery of what people are making|show us something you're making!||
+|#accidents|Text|Gallery of people's mistakes|show us something you made... by accident!||
+|#links|Text|Gallery of things that people have found, usually linked to|show us something you found!||
+|#ribbit|Text|Gallery of ribbits|ribbit ribbit||
 
 ### The Roost
 
-TODO
+|Purpose|Restrictions|
+|--|--|
+|Chatting|Slowmode: 5 minutes|
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#chat|Text|Chatting|chat about creative+coding things!||
+|#music|Text|Exchanging music|share a cheep-worthy tune!||
 
 ### The Labs
 
-TODO
+|Purpose|Restrictions|
+|--|--|
+|Messing around|Slowmode: 6 hours|
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#beep|Text|Messing around with automod|beep boop|Automod removes and reposts all text posts, and gives poster a timeout|
+
+### The Clouds
+
+|Purpose|Restrictions|
+|--|--|
+|Moderation and server management|Moderators only|
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#admin|Text|Discussing moderation and server management, and receiving internal messages from discord|||
+|#cheep|Forum|Archived channel||Locked|
 
 ## Detailed information
 
