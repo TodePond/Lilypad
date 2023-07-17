@@ -37,6 +37,8 @@ There are also some hidden channels.
 
 ### Categories
 
+The server's channels are split into categories. Channels inherit their category's restrictions. Those categories are as follows.
+
 |Category|Purpose|Restrictions|
 |--|--|--|
 |Top level|Entrances and announcements|Slowmode: 2 hours|
@@ -44,7 +46,11 @@ There are also some hidden channels.
 |The Roost|Chatting|Slowmode: 5 minutes|
 |The Labs|Messing around|Slowmode: 6 hours|
 
-### Top level
+### Channels
+
+The channels are as follows.
+
+#### Top level
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -52,7 +58,9 @@ There are also some hidden channels.
 |#lobby|Text|Entrances and announcements|say hello!||
 |#introductions|Text|Introductions|introduce yourself||
 
-### The Pond
+Other channels are within
+
+#### The Pond
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -61,11 +69,11 @@ There are also some hidden channels.
 |#links|Text|Gallery of things that people have found, usually linked to|show us something you found!||
 |#ribbit|Text|Gallery of ribbits|ribbit ribbit||
 
-### The Roost
+#### The Roost
 
 TODO
 
-### The Labs
+#### The Labs
 
 TODO
 
