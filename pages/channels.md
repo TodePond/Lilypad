@@ -38,13 +38,13 @@ There are also some hidden channels.
 
 The server's channels are split into the following categories.
 
-|Category|Purpose|Restrictions|
-|--|--|--|
-|Top level|On-boarding and announcements|Slowmode: 2 hours|
-|The Pond|Sharing|Slowmode: 10 minutes|
-|The Roost|Chatting|Slowmode: 5 minutes|
-|The Labs|Messing around|Slowmode: 6 hours|
-|The Clouds|Moderation and server management|Moderators only|
+|Category|Restrictions|
+|--|--|
+|Top level|Slowmode: 2 hours|
+|The Pond|Slowmode: 10 minutes|
+|The Roost|Slowmode: 5 minutes|
+|The Labs|Slowmode: 6 hours|
+|The Clouds|Moderators only|
 
 ## Channel overview
 
@@ -54,60 +54,40 @@ Channels inherit their category's restrictions. They are as follows.
 
 Some channels are uncategorised, so are listed at the top level.
 
-|Purpose|Restrictions|
-|--|--|
-|On-boarding and announcements|Slowmode: 2 hours|
-
-|Channel|Type|Purpose|Description|Restrictions|
-|--|--|--|--|--|
-|#welcome|Rules|Server guide and rules||Read-only|
-|#lobby|Text|Entrances and announcements|say hello!||
-|#introductions|Text|Introductions|introduce yourself||
+|Channel|Type|Description|Restrictions|
+|--|--|--|--|
+|#welcome|Rules||Read-only|
+|#lobby|Text|say hello!||
+|#introductions|Text|introduce yourself||
 
 ### The Pond
 
-|Purpose|Restrictions|
-|--|--|
-|Sharing|Slowmode: 10 minutes|
-
-|Channel|Type|Purpose|Description|Restrictions|
-|--|--|--|--|--|
-|#journal|Text|Gallery of what people are making|show us something you're making!||
-|#accidents|Text|Gallery of people's mistakes|show us something you made... by accident!||
-|#links|Text|Gallery of things that people have found, usually linked to|show us something you found!||
-|#ribbit|Text|Gallery of ribbits|ribbit ribbit||
+|Channel|Type|Description|Restrictions|
+|--|--|--|--|
+|#journal|Text|show us something you're making!||
+|#accidents|Text|show us something you made... by accident!||
+|#links|Text|show us something you found!||
+|#ribbit|Text|ribbit ribbit||
 
 ### The Roost
 
-|Purpose|Restrictions|
-|--|--|
-|Chatting|Slowmode: 5 minutes|
-
-|Channel|Type|Purpose|Description|Restrictions|
-|--|--|--|--|--|
-|#chat|Text|Chatting|chat about creative+coding things!||
-|#music|Text|Exchanging music|share a cheep-worthy tune!||
+|Channel|Type|Description|Restrictions|
+|--|--|--|--|
+|#chat|Text|chat about creative+coding things!||
+|#music|Text|share a cheep-worthy tune!||
 
 ### The Labs
 
-|Purpose|Restrictions|
-|--|--|
-|Messing around|Slowmode: 6 hours|
-
-|Channel|Type|Purpose|Description|Restrictions|
-|--|--|--|--|--|
-|#beep|Text|Messing around with automod|beep boop|Automod removes and reposts all text posts, and gives poster a timeout|
+|Channel|Type|Description|Restrictions|
+|--|--|--|--|
+|#beep|Text|beep boop|Automod removes and reposts all text posts, and gives poster a timeout|
 
 ### The Clouds
 
-|Purpose|Restrictions|
-|--|--|
-|Moderation and server management|Moderators only|
-
-|Channel|Type|Purpose|Description|Restrictions|
-|--|--|--|--|--|
-|#admin|Text|Discussing moderation and server management, and receiving internal messages from discord|||
-|#cheep|Forum|Archived channel||Locked|
+|Channel|Type|Description|Restrictions|
+|--|--|--|--|
+|#admin|Text|||
+|#cheep|Forum||Locked|
 
 ## Detailed information
 
