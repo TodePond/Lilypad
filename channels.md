@@ -35,6 +35,29 @@ There are also some hidden channels.
 
 ## Table summary
 
+### Categories
+
+|Category|Description|Restrictions|
+|--|--|--|
+|Top level|Entrances and announcements|Slowmode: 2 hours|
+|The Pond|Sharing|Slowmode: 10 minutes|
+|The Roost|Chatting|Slowmode: 5 minutes|
+|The Labs|Messing around|Slowmode: 6 hours|
+
+### Top level
+
+TODO 
+
+### The Pond
+
+TODO
+
+### The Roost
+
+TODO
+
+### The Labs
+
 TODO
 
 ## Detailed information
