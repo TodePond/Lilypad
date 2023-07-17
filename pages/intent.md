@@ -55,7 +55,7 @@ For example, if there are 9 posts in the past week, from 3 different users, a go
 
 We can also measure the server's **wideness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of users per post. If the chart is wide, then the server is doing well. If the chart is narrow, then the server is achieving its goal.
 
-For example, if there are 9 posts in the past week, a good outcome would be 9 posts from 9 different users. A worse outcome would be 9 posts from 3 different users.
+For example, if there are 9 posts in the past week, a good outcome would be 1 post from 9 users. A worse outcome would be 3 posts from 3 users.
 
 <img src="../assets/ppp-wide.png">
 
