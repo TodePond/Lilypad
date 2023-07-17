@@ -3,8 +3,9 @@
 There are various different channels on the server. On this page, they're presented in the following levels of detail.
 
 1. [Basic list](#Basic-list)
-2. [Table summary](#Table-summary)
-3. [Detailed information](#Detailed-information)
+2. [Category overview](#Category-overview)
+3. [Channel overview](#Channel-overview)
+4. [Detailed information](#Detailed-information)
 
 ## Basic list
 
@@ -33,7 +34,7 @@ There are also some hidden channels.
 #admin<br>
 #cheep
 
-## Table summary
+## Category overview
 
 The server's channels are split into the following categories.
 
@@ -45,7 +46,9 @@ The server's channels are split into the following categories.
 |The Labs|Messing around|Slowmode: 6 hours|
 |The Clouds|Moderation and server management|Moderators only|
 
-Channels inherit their category's restrictions.
+## Channel overview
+
+Channels inherit their category's restrictions. They are as follows.
 
 ### Top level
 
