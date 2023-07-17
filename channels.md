@@ -68,11 +68,12 @@ Some channels are uncategorised, so are listed at the top level.
 
 ### The Roost
 
-TODO
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#chat|Text|Chatting|chat about creative+coding things!||
+|#music|Text|Exchanging music|share a cheep-worthy tune!||
 
 ### The Labs
-
-TODO
 
 ### The Clouds
 
