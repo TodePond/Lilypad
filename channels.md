@@ -1,6 +1,6 @@
 # Channels
 
-There are various different channels on the server. On this page, they're presented in the different ways.
+There are various different channels on the server. On this page, they're presented in the following levels of detail.
 
 1. [Basic list](#Basic-list)
 2. [Table summary](#Table-summary)
@@ -35,9 +35,7 @@ There are also some hidden channels.
 
 ## Table summary
 
-### Categories
-
-The server's channels are split into categories. Channels inherit their category's restrictions. Those categories are as follows.
+The server's channels are split into the following categories.
 
 |Category|Purpose|Restrictions|
 |--|--|--|
@@ -45,12 +43,13 @@ The server's channels are split into categories. Channels inherit their category
 |The Pond|Sharing|Slowmode: 10 minutes|
 |The Roost|Chatting|Slowmode: 5 minutes|
 |The Labs|Messing around|Slowmode: 6 hours|
+|The Clouds|Discussing moderation|Moderators only|
 
-### Channels
+Channels inherit their category's restrictions.
 
-The channels are as follows.
+### Top level
 
-#### Top level
+Some channels are uncategorised, so are listed at the top level.
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -58,9 +57,7 @@ The channels are as follows.
 |#lobby|Text|Entrances and announcements|say hello!||
 |#introductions|Text|Introductions|introduce yourself||
 
-Other channels are within
-
-#### The Pond
+### The Pond
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -69,13 +66,15 @@ Other channels are within
 |#links|Text|Gallery of things that people have found, usually linked to|show us something you found!||
 |#ribbit|Text|Gallery of ribbits|ribbit ribbit||
 
-#### The Roost
+### The Roost
 
 TODO
 
-#### The Labs
+### The Labs
 
 TODO
+
+### The Clouds
 
 ## Detailed information
 
