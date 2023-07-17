@@ -37,7 +37,7 @@ There are also some hidden channels.
 
 ### Categories
 
-|Category|Description|Restrictions|
+|Category|Purpose|Restrictions|
 |--|--|--|
 |Top level|Entrances and announcements|Slowmode: 2 hours|
 |The Pond|Sharing|Slowmode: 10 minutes|
@@ -46,11 +46,20 @@ There are also some hidden channels.
 
 ### Top level
 
-TODO 
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#welcome|Rules|Server guide and rules||Read-only|
+|#lobby|Text|Entrances and announcements|say hello!||
+|#introductions|Text|Introductions|introduce yourself||
 
 ### The Pond
 
-TODO
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#journal|Text|Gallery of what people are making|show us something you're making!||
+|#accidents|Text|Gallery of people's mistakes|show us something you made... by accident!||
+|#links|Text|Gallery of things that people have found, usually linked to|show us something you found!||
+|#ribbit|Text|Gallery of ribbits|ribbit ribbit||
 
 ### The Roost
 
