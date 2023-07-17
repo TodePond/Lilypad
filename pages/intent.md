@@ -62,4 +62,4 @@ For example, if there are 9 posts in the past week, a good outcome would be 9 po
 > **Rationale:**
 >
 > 1. This is more of a secondary goal that helps to achieve the other goals.
-> 2. It also helps to stop the server becoming too cliquey, and helps to stop the server becoming dominated by a few people.
+> 2. It also helps to stop the server becoming too cliquey, and becoming dominated by a few people.
