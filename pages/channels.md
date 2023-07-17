@@ -28,7 +28,7 @@ These are the different channels of the Lilypad server.
 > **The Labs**<br>
 #beep
 
-There are also some hidden channels.
+There are also some hidden channels, used to discuss server moderation and management.
 
 > **The Clouds**<br>
 #admin<br>
