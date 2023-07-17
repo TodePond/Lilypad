@@ -39,17 +39,21 @@ The server's channels are split into the following categories.
 
 |Category|Purpose|Restrictions|
 |--|--|--|
-|Top level|Entrances and announcements|Slowmode: 2 hours|
+|Top level|On-boarding and announcements|Slowmode: 2 hours|
 |The Pond|Sharing|Slowmode: 10 minutes|
 |The Roost|Chatting|Slowmode: 5 minutes|
 |The Labs|Messing around|Slowmode: 6 hours|
-|The Clouds|Discussing moderation|Moderators only|
+|The Clouds|Moderation and server management|Moderators only|
 
 Channels inherit their category's restrictions.
 
 ### Top level
 
 Some channels are uncategorised, so are listed at the top level.
+
+|Purpose|Restrictions|
+|--|--|
+|On-boarding and announcements|Slowmode: 2 hours|
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -58,6 +62,10 @@ Some channels are uncategorised, so are listed at the top level.
 |#introductions|Text|Introductions|introduce yourself||
 
 ### The Pond
+
+|Purpose|Restrictions|
+|--|--|
+|Sharing|Slowmode: 10 minutes|
 
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
@@ -68,6 +76,10 @@ Some channels are uncategorised, so are listed at the top level.
 
 ### The Roost
 
+|Purpose|Restrictions|
+|--|--|
+|Chatting|Slowmode: 5 minutes|
+
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
 |#chat|Text|Chatting|chat about creative+coding things!||
@@ -75,15 +87,23 @@ Some channels are uncategorised, so are listed at the top level.
 
 ### The Labs
 
+|Purpose|Restrictions|
+|--|--|
+|Messing around|Slowmode: 6 hours|
+
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
 |#beep|Text|Messing around with automod|beep boop|Automod removes and reposts all text posts, and gives poster a timeout|
 
 ### The Clouds
 
+|Purpose|Restrictions|
+|--|--|
+|Moderation and server management|Moderators only|
+
 |Channel|Type|Purpose|Description|Restrictions|
 |--|--|--|--|--|
-|#admin|Text|Discussing moderation and receiving internal messages from discord|||
+|#admin|Text|Discussing moderation and server management, and receiving internal messages from discord|||
 |#cheep|Forum|Archived channel||Locked|
 
 ## Detailed information
