@@ -51,13 +51,13 @@ We can measure the server's **flatness** to measure the impact of this. First, g
 
 For example, if there are 9 posts in the past week, from 3 different users, a better outcome would be 3 posts per user. A worse outcome would be 8 posts from one user, and 1 post from another user (and none from the third user).
 
-<img src="assets/ppp.png">
+<img src="../assets/ppp.png">
 
 We can also measure the server's **wideness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of users per post. If the chart is wide, then the server is doing well. If the chart is narrow, then the server is achieving its goal.
 
 For example, if there are 9 posts in the past week, a good outcome would be 9 posts from 9 different users. A worse outcome would be 9 posts from 3 different users.
 
-<img src="assets/ppp-wide.png">
+<img src="../assets/ppp-wide.png">
 
 > **Rationale:**
 >
