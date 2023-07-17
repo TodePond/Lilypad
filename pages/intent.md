@@ -6,7 +6,7 @@ This page sets out the intentions and goals of the Lilypad server.
 
 The server does not intend to be a general purpose community. That is, it doesn't intend to be a place for all types of topics and types of expression.
 
-Instead, it intends to be a place for a limited range of topics and .
+Instead, it intends to be a place for a limited range of topics and *vibes*.
 
 Those topics are:<br>
 ⭐ coding + creativity<br>
