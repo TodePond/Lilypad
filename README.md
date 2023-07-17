@@ -13,6 +13,7 @@ It allows me (TodePond) to be more transparent about the running of the server. 
 | [Intent](pages/intent.md)     | The server's goals and intentions.    |
 | [Channels](pages/channels.md) | The server's categories and channels. |
 
+
 ## Current status
 
 This repo is still under construction, so it can't be used properly yet. When we have more information documented here, we can start to keep it in sync with the discord server.
