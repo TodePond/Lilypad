@@ -8,7 +8,7 @@ It can joined by signing up on [patreon](https://patreon.com/TodePond), [substac
 
 This repo contains information about the server, its structure, its rules, etc.
 
-It allows me (TodePond) to be more transparent about the running of the server. It also gives the community a place to discuss the server somewhere that isn't tangled up with the server itself.
+It allows Lu (TodePond) to be more transparent about the running of the server. It also gives the community a place to discuss the server somewhere that isn't tangled up with the server itself.
 
 ## Current status
 
