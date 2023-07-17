@@ -75,7 +75,16 @@ Some channels are uncategorised, so are listed at the top level.
 
 ### The Labs
 
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#beep|Text|Messing around with automod|beep boop|Automod removes and reposts all text posts, and gives poster a timeout|
+
 ### The Clouds
+
+|Channel|Type|Purpose|Description|Restrictions|
+|--|--|--|--|--|
+|#admin|Text|Discussing moderation and receiving internal messages from discord|||
+|#cheep|Forum|Archived channel||Locked|
 
 ## Detailed information
 
