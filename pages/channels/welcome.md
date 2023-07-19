@@ -29,14 +29,12 @@ The channel contains the following posts:
 > (please no crypto in this server - the only NFTs here are non-fungal todes)  ❤ :tode: ❤
 
 **TodePond**
-> https://youtu.be/aEl6o7R6wqE
+> https://youtu.be/aEl6o7R6wqE <br>
+> [embedded video]
 
 **TodePond**
-> Heyall just to clarify as a couple of people have asked recently.
-> 
-> I try to prevent unsolicited criticism on our server. ie: giving criticism to someone if they haven't asked for it (regardless of whether it's constructive or not). This is to try to create a certain vibe, and to encourage everyone to share their stuff in whatever state it's in, or however they feel about it, good, bad, ugly, whatever :terd:
-> 
-> If you want to give unsolicited feedback, you are free to use ||twitter/hackernews/youtube/reddit/etc||. Otherwise, we're just here to celebrate 👏 what people make (see the above video for more info) ⤴️
-> 
-> By all means, you're welcome to request constructive criticism of your own stuff from others. Solicited feedback is all good as always. I'm on holiday right now but can clarify this after I'm back. Any questions or complaints, chuck me a DM 👉 
+> 👁️ Check out this server's repo: https://github.com/TodePond/Lilypad <br>
+> (work-in-progress, currently in alpha)
+>
+> It's the place to discuss the running of the Lilypad, and to suggest changes. For example, this post (that you're reading right now) was added via a [pull request](https://github.com/TodePond/Lilypad/pull/35)! It's still missing a lot of information, but it's a start! ⭐
 
