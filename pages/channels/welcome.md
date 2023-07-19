@@ -29,7 +29,7 @@ The channel contains the following posts:
 > (please no crypto in this server - the only NFTs here are non-fungal todes)  ❤ :tode: ❤
 
 **TodePond**
-> https://youtu.be/aEl6o7R6wqE
+> https://youtu.be/aEl6o7R6wqE <br>
 > [embedded video]
 
 **TodePond**
