@@ -36,5 +36,5 @@ The channel contains the following posts:
 > 👁️ Check out this server's repo: https://github.com/TodePond/Lilypad
 > (work-in-progress, currently in alpha)
 >
-> It's the place to discuss the running of Lilypad, and to suggest changes. For example, this post (that you're reading right now) was added via a [pull request]()! It's still missing a lot of information, but it's a start! ⭐
+> It's the place to discuss the running of Lilypad, and to suggest changes. For example, this post (that you're reading right now) was added via a [pull request](https://github.com/TodePond/Lilypad/pull/35)! It's still missing a lot of information, but it's a start! ⭐
 
