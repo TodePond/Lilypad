@@ -47,13 +47,13 @@ The server intends to be comprised of users from wide and diverse backgrounds an
 
 The server intends to have a wide range of people posting, not just a few people dominating the conversation.
 
-We can measure the server's **flatness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of posts per user. If the chart is flat, then the server is doing well. If the chart is spiky, then the server is not achieving its goal.
+We can measure the server's **flatness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of posts per user. If the chart is flat, then the server is doing well. If the chart is spiky, then the server is doing worse.
 
 For example, if there are 9 posts in the past week, from 3 different users, a good outcome would be 3 posts per user. A worse outcome would be 8 posts from one user, and 1 post from another user (and none from the third user).
 
 <img src="../assets/ppp.png">
 
-We can also measure the server's **wideness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of users per post. If the chart is wide, then the server is doing well. If the chart is narrow, then the server is achieving its goal.
+We can also measure the server's **wideness** to measure the impact of this. First, gather all posts from a given time period (eg: week/month). Then, draw a bar chart of the number of users per post. If the chart is wide, then the server is doing well. If the chart is narrow, then the server is doing worse.
 
 For example, if there are 9 posts in the past week, a good outcome would be 1 post each from 9 users. A worse outcome would be 3 posts each from 3 users.
 
