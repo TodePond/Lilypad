@@ -17,9 +17,11 @@ It allows me (TodePond) to be more transparent about the running of the server. 
 
 ## Current status
 
-This repo is still under construction, so it can't be used properly yet. When we have more information documented here, we can start to keep it in sync with the discord server.
+This repo is in alpha, and is still a work-in-progress. This means that it's still missing a lot of information about the server, so it can't be used for certain things yet. For example, it doesn't contain any information about the [server's settings](https://github.com/TodePond/Lilypad/issues/17), so it can't be used to suggest changes to those (yet).
 
-The discord server will stay in sync with the latest release of the repo. The main branch can be 'ahead'. When the main branch seems stable enough, a release will be created, and the discord server will be updated accordingly. The first release will represent the current state of the discord server.
+However, it does contain *some* information. For example, it lists all the [channels](pages/channels.md) of the server, so it *can* be used to suggest changes to those.
+
+The discord server stays in sync with the latest release of the repo. The main branch can be 'ahead' of the server. When the main branch seems stable enough, a release gets created, and the discord server will be updated accordingly.
 
 ## Contribute
 
