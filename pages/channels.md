@@ -1,17 +1,16 @@
 # Channels
 
-There are various different channels on the server. On this page, they're presented in the following levels of detail.
+There are various different channels on the server. On this page, they're presented in the following levels of detail. Click on any channel to see more detailed information about it. Note: This is currently a work-in-progress and most channels are missing this.
 
 1. [Basic list](#Basic-list)
 2. [Category overview](#Category-overview)
 3. [Channel overview](#Channel-overview)
-4. [Detailed information](#Detailed-information)
 
 ## Basic list
 
 These are the different channels of the Lilypad server.
 
-> #welcome<br>
+> [#welcome](channels/welcome.md)<br>
 #lobby<br>
 #introductions
 >    
@@ -56,7 +55,7 @@ Some channels are uncategorised, so are listed at the top level.
 
 |Channel|Type|Description|Restrictions|
 |--|--|--|--|
-|#welcome|Rules||Read-only|
+|[#welcome](channels/welcome.md)|Rules||Read-only|
 |#lobby|Text|say hello!||
 |#introductions|Text|introduce yourself||
 
@@ -91,4 +90,4 @@ Some channels are uncategorised, so are listed at the top level.
 
 ## Detailed information
 
-TODO
+
