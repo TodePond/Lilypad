@@ -16,8 +16,8 @@ These are the different channels of the Lilypad server.
 >    
 > **The Pond**<br>
 #journal<br>
-#accidents<br>
 #links<br>
+#oops<br>
 #ribbit
 > 
 > **The Roost**<br>
@@ -64,8 +64,8 @@ Some channels are uncategorised, so are listed at the top level.
 |Channel|Type|Description|Restrictions|
 |--|--|--|--|
 |#journal|Text|show us something you're making!||
-|#accidents|Text|show us something you made... by accident!||
 |#links|Text|show us something you found!||
+|#accidents|Text|show us something you made... by accident!||
 |#ribbit|Text|ribbit ribbit||
 
 ### The Roost
