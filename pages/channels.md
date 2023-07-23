@@ -19,6 +19,7 @@ These are the different channels of the Lilypad server.
 #accidents<br>
 #links<br>
 #ribbit
+🔊lily pad
 > 
 > **The Roost**<br>
 #chat<br>
