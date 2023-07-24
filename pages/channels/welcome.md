@@ -15,9 +15,9 @@ The channel contains the following posts:
 > ⭐ coding + cellular automata<br>
 > ⭐ creativity + nature<br>
 > 
-> ⁠journal - show us something you're making!<br>
-> ⁠accidents - show us something you made by accident!<br>
-> ⁠links - show us something you found!<br>
+> ⁠#journal - show us something you're making!<br>
+> ⁠#links - show us something you found!<br>
+> #oops - show us something you made by mistake!<br>
 > 
 > New people arrive in ⁠lobby!<br>
 > Let's be kind+respectful to everyone! :)<br>
